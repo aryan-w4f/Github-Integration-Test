@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_w4f_github_int_0.admin" name="x_w4f_github_int_0.admin">db8e31773b62cf5023a6e8dc73e45a5e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>aryan.vaidya@work4flow.com</sys_created_by>
+        <sys_created_on>2026-08-13 20:39:23</sys_created_on>
+        <sys_id>5f8e31773b62cf5023a6e8dc73e45a65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db8e31773b62cf5023a6e8dc73e45a5e</sys_name>
+        <sys_package display_value="GitHub Integration" source="x_w4f_github_int_0">cb8efd373b62cf5023a6e8dc73e45af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration">cb8efd373b62cf5023a6e8dc73e45af2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5f8e31773b62cf5023a6e8dc73e45a65</sys_update_name>
+        <sys_updated_by>aryan.vaidya@work4flow.com</sys_updated_by>
+        <sys_updated_on>2026-08-13 20:39:23</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

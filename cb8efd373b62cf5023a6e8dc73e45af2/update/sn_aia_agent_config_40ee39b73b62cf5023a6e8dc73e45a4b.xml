@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_aia_agent_config">
+    <sn_aia_agent_config action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <agent display_value="Test AI Agent for Github">ddbe71773b62cf5023a6e8dc73e45a27</agent>
+        <agent_descriptor/>
+        <agent_learning>false</agent_learning>
+        <doc_url/>
+        <icon_url/>
+        <public>false</public>
+        <run_as_user/>
+        <specialist_enabled>false</specialist_enabled>
+        <sys_class_name>sn_aia_agent_config</sys_class_name>
+        <sys_created_by>aryan.vaidya@work4flow.com</sys_created_by>
+        <sys_created_on>2026-08-13 20:40:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>40ee39b73b62cf5023a6e8dc73e45a4b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="GitHub Integration" source="x_w4f_github_int_0">cb8efd373b62cf5023a6e8dc73e45af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration">cb8efd373b62cf5023a6e8dc73e45af2</sys_scope>
+        <sys_update_name>sn_aia_agent_config_40ee39b73b62cf5023a6e8dc73e45a4b</sys_update_name>
+        <sys_updated_by>aryan.vaidya@work4flow.com</sys_updated_by>
+        <sys_updated_on>2026-08-13 20:41:23</sys_updated_on>
+    </sn_aia_agent_config>
+</record_update>
