@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_agent_access_role_configuration">
+    <sys_agent_access_role_configuration action="INSERT_OR_UPDATE">
+        <action>limit_to_roles</action>
+        <agent>ddbe71773b62cf5023a6e8dc73e45a27</agent>
+        <agent_table>sn_aia_agent</agent_table>
+        <allow_all_session_roles>false</allow_all_session_roles>
+        <description/>
+        <name>ddbe71773b62cf5023a6e8dc73e45a27</name>
+        <role_list/>
+        <sys_class_name>sys_agent_access_role_configuration</sys_class_name>
+        <sys_created_by>aryan.vaidya@work4flow.com</sys_created_by>
+        <sys_created_on>2026-08-13 20:41:14</sys_created_on>
+        <sys_id>defebd773b62cf5023a6e8dc73e45a67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ddbe71773b62cf5023a6e8dc73e45a27</sys_name>
+        <sys_package display_value="GitHub Integration" source="x_w4f_github_int_0">cb8efd373b62cf5023a6e8dc73e45af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration">cb8efd373b62cf5023a6e8dc73e45af2</sys_scope>
+        <sys_update_name>sys_agent_access_role_configuration_defebd773b62cf5023a6e8dc73e45a67</sys_update_name>
+        <sys_updated_by>aryan.vaidya@work4flow.com</sys_updated_by>
+        <sys_updated_on>2026-08-13 20:41:14</sys_updated_on>
+    </sys_agent_access_role_configuration>
+</record_update>
