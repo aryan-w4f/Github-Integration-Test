@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_config">
+    <sys_generative_ai_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_configurations>{"skill_config_id":"08a3c99f4763c7104dd84ddb416d436f"}</additional_configurations>
+        <ai_suggested>false</ai_suggested>
+        <definition>f793c99f4763c7104dd84ddb416d4340</definition>
+        <definition_table>sys_one_extend_capability_definition</definition_table>
+        <documentation/>
+        <max_tokens>500</max_tokens>
+        <min_word_count>-1</min_word_count>
+        <model>llm_generic_small</model>
+        <name>Incident Summarization</name>
+        <parent/>
+        <prompt>Note to user: This is a sample prompt. Before running this prompt, please add a skill input of type "Record" and choose Incident table.
+
+You are a customer service representative. Summarize the below incident in no more than 250 words.
+The summary should only contain two sections "Issue" and "Priority".
+
+You are optionally given the following details from the incident:
+Incident SHORT_DESCRIPTION: {{incident.short_description}}
+Incident DESCRIPTION: {{incident.description}}
+Incident PRIORITY: {{incident.priority}}</prompt>
+        <prompt_template_role>user</prompt_template_role>
+        <provider_company/>
+        <request_tokens>32018</request_tokens>
+        <show_in_prompt_library>true</show_in_prompt_library>
+        <state>published</state>
+        <structured_output_enabled>false</structured_output_enabled>
+        <structured_output_schema/>
+        <sys_class_name>sys_generative_ai_config</sys_class_name>
+        <sys_created_by>aryan.vaidya@work4flow.com</sys_created_by>
+        <sys_created_on>2026-09-30 20:07:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3393c99f4763c7104dd84ddb416d435b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>f793c99f4763c7104dd84ddb416d4340</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration">cb8efd373b62cf5023a6e8dc73e45af2</sys_scope>
+        <sys_update_name>sys_generative_ai_config_3393c99f4763c7104dd84ddb416d435b</sys_update_name>
+        <sys_updated_by>aryan.vaidya@work4flow.com</sys_updated_by>
+        <sys_updated_on>2026-09-30 20:08:20</sys_updated_on>
+        <temperature>0.2</temperature>
+        <thinking_tokens>0</thinking_tokens>
+        <version>1</version>
+    </sys_generative_ai_config>
+</record_update>
